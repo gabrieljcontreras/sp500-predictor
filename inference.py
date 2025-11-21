@@ -1,6 +1,5 @@
 """
 Production inference module for S&P 500 predictions
-Refactored from your original code with production enhancements
 """
 import os
 import pandas as pd
